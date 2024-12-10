@@ -19981,7 +19981,7 @@ Cg:function Cg(a){this.a=a},
 tn:function tn(a){this.a=a},
 wH:function wH(a){var _=this
 _.d=a
-_.e="https://raw.githubusercontent.com/MrApolloOC/smart_mirror/main/wallpaper1.jpg"
+_.e="https://raw.githubusercontent.com/MrApolloOC/smart_mirror/main/wallpaper3.jpg"
 _.c=_.a=null},
 a5b:function a5b(a){this.a=a},
 a5a:function a5a(a){this.a=a},
